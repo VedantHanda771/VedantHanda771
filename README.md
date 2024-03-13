@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hello there! I'm Vedant Handa, a passionate Coding, Database Management, Front End  based in Chandigarh.I'm always excited to dive into new projects and challenges.
+👋 Hello there! I'm Vedant Handa, a passionate Coding, Database Management, Front End  based in Chandigarh. I'm always excited to dive into new projects and challenges.
 
 
 ## 🌐 Socials:
