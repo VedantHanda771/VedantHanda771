@@ -1,69 +1,73 @@
-# 💫 About Me:
-👋 Hello there! I'm **Vedant Handa**, passionate about **Coding**, **Database Management**, and **Front-End Development**, based in Chandigarh. I thrive on exploring new technologies and taking on exciting challenges.  
+<div align="center">
+
+# 💫 About Me  
+👋 Hello there! I'm **Vedant Handa**, a passionate **Front-End Developer**, **Database Enthusiast**, and **Problem Solver** based in **Chandigarh, India**.  
+I love building interactive web apps, managing data efficiently, and exploring new technologies that make development smarter and faster.  
 
 ---
 
-## 🚀 **Skills & Tools**
-
-### **Programming Languages**
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-
-### **Web Development**
-- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-- ![Express.js](https://img.shields.io/badge/Express.js-%23404D59.svg?style=flat-square&logo=express&logoColor=white)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
-- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### **AI/ML**
-- 🤖 Transformers  
-- 📊 Machine Learning Algorithms  
-- 📈 Data Analysis  
-
-### **Databases**
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-
-### **Other Tools**
-- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)  
-- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)  
-- 🎞️ GSAP  
+## 🧩 LeetCode Info
+<a href="https://leetcode.com/u/anonymus771/" target="_blank">
+  <img src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="LeetCode Badge 1" height="130" />
+</a>
+<a href="https://leetcode.com/u/anonymus771/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/others/200.gif" alt="LeetCode Badge 2" height="130" />
+</a>
+<a href="https://leetcode.com/u/anonymus771/" target="_blank">
+  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="LeetCode Badge 3" height="130" />
+</a>
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vedanthandaa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-handa-58209a30b/)
+## 📊 GitHub Stats  
+![VedantHanda771's Stats](https://github-readme-stats.vercel.app/api?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&count_private=true)  
+![VedantHanda771's Streak](https://github-readme-streak-stats.herokuapp.com/?user=VedantHanda771&theme=default&hide_border=true)  
+![VedantHanda771's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VedantHanda771&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=VedantHanda771&theme=vision-friendly-dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantHanda771&theme=vision-friendly-dark&hide_border=true&layout=compact)  
+### 🏆 GitHub Trophies  
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=VedantHanda771&margin-w=10&margin-h=10&theme=flat&no-frame=true" alt="Vedant's Trophies" />
+</a>
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=VedantHanda771&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 💡 Fun Fact  
+🌟 When I’m not coding, I enjoy exploring AI innovations, experimenting with creative projects, and learning about emerging technologies.
 
 ---
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=VedantHanda771&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+## 🌐 Connect with Me  
+<a href="https://linkedin.com/in/vedanthanda" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/vedanthanda" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+<a href="https://leetcode.com/u/anonymus771" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 
 ---
 
-### 🧮 Profile Visitors:
-[![](https://visitcount.itsvg.in/api?id=VedantHanda771&icon=0&color=12)](https://visitcount.itsvg.in)
+## 🛠️ Languages and Tools  
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
+</p>
 
 ---
 
-### 💡 Fun Fact:
-🌟 When I’m not coding, I enjoy exploring the latest in AI, experimenting with creative projects, and discovering new technologies.
+✨ *“Code. Learn. Build. Repeat.”* ✨  
 
----
-
-### ✨ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+</div>
