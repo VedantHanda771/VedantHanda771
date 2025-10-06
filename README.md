@@ -23,12 +23,18 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&count_private=true" alt="VedantHanda771's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantHanda771&theme=default&hide_border=true" alt="VedantHanda771's Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&layout=compact" alt="VedantHanda771's Top Languages" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&count_private=true" width="100%"/></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantHanda771&theme=default&hide_border=true" width="100%"/></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&layout=compact" width="50%"/>
+    </td>
+  </tr>
+</table>
+
 
 
 
