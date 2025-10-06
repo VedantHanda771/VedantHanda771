@@ -1,8 +1,8 @@
 <div align="center">
 
 # 💫 About Me  
-👋 Hello there! I'm **Vedant Handa**, a passionate **Front-End Developer**, **Database Enthusiast**, and **Problem Solver** based in **Chandigarh, India**.  
-I love building interactive web apps, managing data efficiently, and exploring new technologies that make development smarter and faster.  
+👋 Hello there! I'm **Vedant Handa**, a passionate **Front-End Developer**, **Database Enthusiast**, and **Problem Solver** based in **Chandigarh, India**. I love building interactive web apps, managing data efficiently, and exploring new technologies that make development smarter and faster.  
+
 
 ## 💻 Languages and Tools
 <p align="center">
@@ -23,14 +23,12 @@ I love building interactive web apps, managing data efficiently, and exploring n
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&count_private=true" alt="VedantHanda771's Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VedantHanda771&theme=default&hide_border=true" alt="VedantHanda771's Streak" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantHanda771&theme=default&show_icons=true&hide_border=true&layout=compact" alt="VedantHanda771's Top Languages" />
-</p>
+</div>
 
 
 
